@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "category": "शिवलिंग आणि मूर्ती",
+    "title": "Shri Narmadeshwar Shivling (Premium)",
+    "oldPrice": "₹1,299",
+    "newPrice": "₹850",
+    "rating": "4.9",
+    "reviews": "128",
+    "badge": "Best Seller",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/.../image1.png",
+    "link": "https://wa.me/918275946367?text=Hi,%20I%20want%20to%20order%20Shri%20Narmadeshwar%20Shivling",
+    "keywords": ["शिवलिंग", "नर्मदेश्वर", "महादेव", "श्रावण", "पूजा", "शिव"]
+  },
+  {
+    "id": 2,
+    "category": "हवन आणि पूजा साहित्य",
+    "title": "Premium Hawan Kund",
+    "oldPrice": "₹2,299",
+    "newPrice": "₹1,999",
+    "rating": "4.8",
+    "reviews": "84",
+    "badge": "Sale",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/.../image2.png",
+    "link": "https://wa.me/918275946367?text=Hi,%20I%20want%20to%20order%20Hawan%20Kund",
+    "keywords": ["हवन", "कुंड", "यज्ञ", "नवग्रह", "शांती", "होम"]
+  },
+  {
+    "id": 3,
+    "category": "ग्रंथ आणि पुस्तके",
+    "title": "श्री गुरुचरित्र ग्रंथ (सार्थ)",
+    "oldPrice": "₹450",
+    "newPrice": "₹350",
+    "rating": "5.0",
+    "reviews": "42",
+    "badge": "New Launch",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/.../image3.png",
+    "link": "https://wa.me/918275946367?text=Hi,%20I%20want%20to%20order%20Gurucharitra",
+    "keywords": ["गुरुचरित्र", "दत्त", "पारायण", "ग्रंथ", "स्तोत्र", "अध्याय"]
+  }
+]
